@@ -38,3 +38,17 @@ A fun, interactive memory game built with **HTML**, **CSS**, and **JavaScript**,
 - ✅ Game-over screen and restart logic
 
 ---
+
+## 💡 Improvements
+
+- Add sound effects per color
+- Add high score storage with `localStorage`
+- Support for touch/mobile input
+
+---
+
+## 📸 Preview
+
+<img src ="assets/image.png"/>
+
+---
